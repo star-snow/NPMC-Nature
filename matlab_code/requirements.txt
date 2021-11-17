@@ -1,0 +1,21 @@
+This file contains the software/hardware requirements used for the NMPC swarm project.
+
+Software
+--------
+
+- Ubuntu 16.04
+- Matlab >= R2019b
+- acados (master branch, commit 91067daebe12c07d76d32a6aed0b8db00b3a54e1)
+- swarmlab v1.0 (https://github.com/lis-epfl/swarmlab/tree/v1.0)
+- ROS kinetic
+- crazyflie firmware (https://github.com/bitcraze/crazyflie-firmware/tree/12cf59a535a859c260b00d0b558681be911e759a)
+- crazyswarm-matlab (https://github.com/lis-epfl/crazyswarm-matlab)
+- crazyswarm (https://github.com/lis-epfl/crazyswarm/tree/master-mpc-swarm, branch: master-mpc-swarm, commit: 4bd35497029f92db08756d77cf0cf034a676bcef)
+
+
+Hardware
+--------
+
+- Crazyflie 2.1 (https://store.bitcraze.io/products/crazyflie-2-1)
+- Optitrack motion capture system (https://optitrack.com/)
+
